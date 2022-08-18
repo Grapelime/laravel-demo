@@ -63,5 +63,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 3. Rename `.env.exapmle` to `.env` and update the database credentials.
 4. Run `php artisan migrate:fresh --seed`
 5. Run `php artisan key:generate` to generate the app key
-6. Run php artisan serve to start the application
+6. Run `php artisan serve` to start the application
 
